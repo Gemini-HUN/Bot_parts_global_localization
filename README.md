@@ -2,5 +2,9 @@
 This mod translate the Dr Pepper Bot Parts DLC to multiple languages
 
 I'm add Russian and Hungarian language to the DLC
+# Translated:
+
+* Hungarian: 
+* Russian: Charlott
 
 If you want translation to your language write me on Discord!
