@@ -1,7 +1,7 @@
 # -Bot_parts_global_localization
 This mod translate the Dr Pepper Bot Parts DLC to multiple languages
 
-I'm add Russian and Hungarian language to the DLC
+I'm added Hungarian and Russian languages to the DLC
 # Translated:
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
