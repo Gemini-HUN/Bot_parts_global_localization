@@ -5,6 +5,6 @@ I'm add Russian and Hungarian language to the DLC
 # Translated:
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
-* Russian: Charlott
+* Russian: Evelin and Charlott
 
 If you want translation to your language write me on Discord!
