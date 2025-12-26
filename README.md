@@ -7,7 +7,7 @@ This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported lan
 * Russian: Evelin and Charlott
 
 # You can check the AI
-Check or edit the language file on my github page and give feedback or write me on Discord.
+Check or edit the language files on my github page and give feedback or write me on Discord.
 
 Progression of translating:
 * cs-cz	AI
