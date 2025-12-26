@@ -8,7 +8,7 @@ I'm added Hungarian and Russian languages to the DLC
 * Russian: Evelin and Charlott
 
 # You can help
-Check or edit the language file on my github page or write me on Discord.
+Check or edit the language file on my github page and give feedback or write me on Discord.
 
 List:
 * cs-cz	AI
