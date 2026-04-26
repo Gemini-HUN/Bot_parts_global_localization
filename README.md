@@ -15,11 +15,11 @@ Progression of translating:
 * da-dk	AI
 * de-de	AI
 * en-gb	AI
-* 	en-us	Official
+*   en-us	Official
 * es-es	AI
 * fi-fi	AI
 * fr-fr	AI
-* 	hu-hu	Translated
+*   hu-hu	Manually translated
 * it-it	AI
 * ja-jp	AI
 * ko-kr	AI
@@ -28,6 +28,6 @@ Progression of translating:
 * pl-pl	AI
 * pt-br	AI
 * pt-pt	AI
-* 	ru-ru	Translated
+*   ru-ru	Manually translated
 * sv-se	AI
 * zh-tw	AI
