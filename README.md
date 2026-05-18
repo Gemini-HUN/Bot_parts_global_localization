@@ -1,10 +1,12 @@
 # Bot_parts_global_localization
 This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported languages.
 
+# Working with DI, and even the mouths included in the ''GodzillasuperTexturelessMouths'' mod!
+
 # Translated:
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
-* Russian: Evelin and Charlott
+* Russian: Evelin and Charlott and A-xeseya
 * French : FrenchSPORE
 * AI idea: Roschach96 and Davo
 
