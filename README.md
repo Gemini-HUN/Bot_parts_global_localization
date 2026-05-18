@@ -10,7 +10,7 @@ Feedback from FrenchSPORE!
 # Translated:
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
-* Russian: Evelin and Charlott and A-xeseya
+* Russian: Evelin and A-xeseya and Charlott
 * French : FrenchSPORE
 * AI idea: Roschach96 and Davo
 
