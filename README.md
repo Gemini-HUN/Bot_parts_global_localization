@@ -5,6 +5,7 @@ This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported lan
 
 * Hungarian: Roschach96 and Gemini_HUN (me)
 * Russian: Evelin and Charlott
+* French : FrenchSPORE
 * AI idea: Roschach96 and Davo
 
 # You can check the AI and our work
@@ -18,7 +19,7 @@ Progression of translating:
 *   en-us	Official
 * es-es	AI
 * fi-fi	AI
-* fr-fr	AI
+* fr-fr	AI Checked
 *   hu-hu	Manually translated
 * it-it	AI
 * ja-jp	AI
