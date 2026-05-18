@@ -2,7 +2,10 @@
 This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported languages.
 
 # Working with:
-* DI, and even the mouths included in the ''GodzillasuperTexturelessMouths'' mod!
+* DI
+* "And even the mouths included in the ''GodzillasuperTexturelessMouths'' mod!"
+
+Feedback from FrenchSPORE!
 
 # Translated:
 
