@@ -25,7 +25,7 @@ Progression of translating:
 *   en-us	Official
 * es-es	AI
 * fi-fi	AI
-* fr-fr	AI Checked
+*   fr-fr	Manually translated
 *   hu-hu	Manually translated
 * it-it	AI
 * ja-jp	AI
