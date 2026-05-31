@@ -21,6 +21,7 @@ Progression of translating:
 * cs-cz	AI
 * da-dk	AI
 * de-de	AI
+* el-gr AI
 * en-gb	AI
 *   en-us	Official
 * es-es	AI
