@@ -38,4 +38,6 @@ Progression of translating:
 * pt-pt	AI
 *   ru-ru	Manually translated
 * sv-se	AI
+* th-th InProgress
+* zh-cn InProgress
 * zh-tw	AI
