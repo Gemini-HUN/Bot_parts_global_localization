@@ -24,12 +24,12 @@ Progression of translating:
 * da-dk	AI
 * de-de	AI
 * el-gr AI
-* en-gb	AI
+*   en-gb	Same as Official
 *   en-us	Official
 * es-es	AI
 * fi-fi	AI
-*   fr-fr	Manually translated
-*   hu-hu	Manually translated
+*   fr-fr	Translated by feedback
+*   hu-hu	Translated by feedback
 * it-it	AI
 * ja-jp	AI
 * ko-kr	AI
@@ -38,7 +38,7 @@ Progression of translating:
 * pl-pl	AI
 * pt-br	AI
 * pt-pt	AI
-*   ru-ru	Manually translated
+*   ru-ru	Translated by feedback
 * sv-se	AI
 * th-th AI
 * zh-cn AI
