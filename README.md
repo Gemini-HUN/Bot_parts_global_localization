@@ -3,7 +3,9 @@ This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported lan
 
 # Working with:
 * DI
-* "And even the mouths included in the ''GodzillasuperTexturelessMouths'' mod!"
+
+"And even the mouths included in the 
+* ''GodzillasuperTexturelessMouths'' mod!"
 
 Feedback from FrenchSPORE!
 
