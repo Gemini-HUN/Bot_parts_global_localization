@@ -1,5 +1,5 @@
 # Bot_parts_global_localization
-This mod translate the Dr Pepper Bot Parts DLC to all of the Spore-supported languages.
+This mod translates the Dr Pepper Bot Parts DLC into all Spore-supported languages.
 
 # Working with:
 * DI
