@@ -1,4 +1,5 @@
-# Bot_parts_global_localization Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Bot_parts_global_localization?style=flat-square)
+# Bot_parts_global_localization
+* Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Bot_parts_global_localization?style=flat-square)
 
 This mod translates the Dr Pepper Bot Parts DLC into all Spore-supported languages.
 
