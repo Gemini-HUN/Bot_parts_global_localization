@@ -13,8 +13,8 @@ Feedback from FrenchSPORE!
 
 # Translated:
 
-* Hungarian: Roschach96 and [Gemini-HUN](https://github.com/Gemini-HUN)
-* Russian: Evelin and A-xeseya and Charlott
+* Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
+* Russian: [@A-xesey](https://github.com/A-xesey) and Evelin and Charlott
 * French : FrenchSPORE
 * AI idea: Roschach96 and Davo
 
