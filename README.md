@@ -3,7 +3,7 @@
 
 This mod translates the Dr Pepper Bot Parts DLC into all Spore-supported languages.
 
-# Working with:
+## Working with:
 * DI
 
 "And even the mouths included in the 
@@ -11,14 +11,14 @@ This mod translates the Dr Pepper Bot Parts DLC into all Spore-supported languag
 
 Feedback from FrenchSPORE!
 
-# Translated:
+## Translated:
 
 * Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and Evelin and Charlott
 * French : FrenchSPORE
 * AI idea: Roschach96 and Davo
 
-# You can check the AI and our work
+## You can check the AI and our work
 Check or edit the language files on my github page and give feedback or write me on Discord.
 
 Progression of translating:
