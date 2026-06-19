@@ -3,9 +3,7 @@
 
 This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding support for all Spore-supported languages.
 
-## Working with:
-
-"**DI** and even the mouths included in the **GodzillasuperTexturelessMouths** mod!"
+Compatible with **Dark Injection** and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
 
 Feedback from **FrenchSPORE**!
 
@@ -14,7 +12,7 @@ Feedback from **FrenchSPORE**!
 * Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and Evelin and Charlott
 * French : FrenchSPORE
-* AI idea: Roschach96 and Davo
+* AI translation approach suggested by Roschach96 and Davo
 
 ## You can check the AI and our work
 Check or edit the language files on my github page and give feedback or write me on Discord.
