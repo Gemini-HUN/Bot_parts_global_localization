@@ -11,12 +11,12 @@ Feedback from **FrenchSPORE** on Davoonline!
 
 * Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and Evelin and Charlott
-* French : FrenchSPORE
-* AI translation approach suggested by Roschach96 and Davo.
+* French: FrenchSPORE
+* * AI-assisted translation approach suggested by Roschach96 and Davo.
 
 ## You can check or edit the language files on my GitHub page and give feedback or contact me on Discord.
 
-Progression of translating:
+Translation progress:
 * cs-cz AI
 * da-dk AI
 * de-de AI
