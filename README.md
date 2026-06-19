@@ -6,6 +6,7 @@ This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding
 ## Working with:
 
 "**DI** and even the mouths included in the **GodzillasuperTexturelessMouths** mod!"
+
 Feedback from **FrenchSPORE**!
 
 ## Translated:
