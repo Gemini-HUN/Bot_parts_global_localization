@@ -1,15 +1,12 @@
 # Bot_parts_global_localization
 ### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=d81b60&icon=github)
 
-This mod translates the Dr Pepper Bot Parts DLC into all Spore-supported languages.
+This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding support for all Spore-supported languages.
 
 ## Working with:
-* DI
 
-"And even the mouths included in the 
-* ''GodzillasuperTexturelessMouths'' mod!"
-
-Feedback from FrenchSPORE!
+"**DI** and even the mouths included in the **GodzillasuperTexturelessMouths** mod!"
+Feedback from **FrenchSPORE**!
 
 ## Translated:
 
