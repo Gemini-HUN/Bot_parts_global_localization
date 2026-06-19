@@ -4,40 +4,39 @@
 This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding support for all Spore-supported languages.
 
 Compatible with **Dark Injection** and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
+Feedback from **FrenchSPORE** on Davoonline!
 
-Feedback from **FrenchSPORE**!
 
 ## Translated:
 
 * Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and Evelin and Charlott
 * French : FrenchSPORE
-* AI translation approach suggested by Roschach96 and Davo
+* AI translation approach suggested by Roschach96 and Davo.
 
-## You can check the AI and our work
-Check or edit the language files on my github page and give feedback or write me on Discord.
+## You can check or edit the language files on my GitHub page and give feedback or contact me on Discord.
 
 Progression of translating:
-* cs-cz	AI
-* da-dk	AI
-* de-de	AI
+* cs-cz AI
+* da-dk AI
+* de-de AI
 * el-gr AI
-*   en-gb	Same as Official
-*   en-us	Official
-* es-es	AI
-* fi-fi	AI
-*   fr-fr	Translated by feedback
-*   hu-hu	Translated by feedback
-* it-it	AI
-* ja-jp	AI
-* ko-kr	AI
-* nl-nl	AI
-* no-no	AI
-* pl-pl	AI
-* pt-br	AI
-* pt-pt	AI
-*   ru-ru	Translated by feedback
-* sv-se	AI
+*   en-gb Same as Official
+*   en-us Official
+* es-es AI
+* fi-fi AI
+*   fr-fr Translated by feedback
+*   hu-hu Translated by feedback
+* it-it AI
+* ja-jp AI
+* ko-kr AI
+* nl-nl AI
+* no-no AI
+* pl-pl AI
+* pt-br AI
+* pt-pt AI
+*   ru-ru Translated by feedback
+* sv-se AI
 * th-th AI
 * zh-cn AI
-* zh-tw	AI
+* zh-tw AI
