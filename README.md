@@ -9,6 +9,8 @@ For the missing Sing ability on the original Dr Pepper Bot Parts mouths,
 I recommend installing Davo's Vocal Bot Mouths patch as well.
 [Davo's Vocal Bot Mouths (Sing ability fix)](https://davoonline.com/phpBB3/viewtopic.php?t=94#google_vignette)
 
+## Compatibility
+
 ### Compatible with **Dark Injection** and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
 Feedback from **FrenchSPORE** on Davoonline!
 
