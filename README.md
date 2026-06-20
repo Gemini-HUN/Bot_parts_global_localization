@@ -9,9 +9,9 @@ This mod requires the original [Dr Pepper Bot Parts DLC](https://www.moddb.com/g
 
 ### Installation Note
 
-The original DLC installer is known to may cause compatibility issues or crashes on some systems.
+The original DLC installer is known to cause compatibility issues or crashes on some systems.
 
-For best compatibility, use the extracted `.package` file as a regular Spore mod instead of running the original installer.
+For better compatibility, install the extracted `.package` file as a regular Spore mod instead.
 
 **This repository does not include the original EA files.**
 
