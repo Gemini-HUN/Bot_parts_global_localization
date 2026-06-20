@@ -11,7 +11,7 @@ I recommend installing Davo's Vocal Bot Mouths patch as well.
 
 ## Compatibility
 
-### Compatible with **Dark Injection** and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
+Compatible with [Dark Injection](https://davoonline.com/sporemodder/rob55rod/DarkInjection/) and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
 Feedback from **FrenchSPORE** on Davoonline!
 
 
