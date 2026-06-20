@@ -3,6 +3,15 @@
 
 This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding support for all Spore-supported languages.
 
+## Requirements
+
+This mod requires the original Dr Pepper Bot Parts DLC.
+
+Original DLC:
+[link]
+
+**This repository does not include the original EA files.**
+
 ## Recommended
 
 For the missing Sing ability on the original Dr Pepper Bot Parts mouths,
