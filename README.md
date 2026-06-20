@@ -7,9 +7,7 @@ This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding
 
 For the missing Sing ability on the original Dr Pepper Bot Parts mouths,
 I recommend installing Davo's Vocal Bot Mouths patch as well.
-
-Original fix:
-[link]
+[Davo's Vocal Bot Mouths (Sing ability fix)]()
 
 ### Compatible with **Dark Injection** and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
 Feedback from **FrenchSPORE** on Davoonline!
