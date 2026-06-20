@@ -5,10 +5,7 @@ This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding
 
 ## Requirements
 
-This mod requires the original Dr Pepper Bot Parts DLC.
-
-Original DLC:
-[link]
+This mod requires the original [Dr Pepper Bot Parts DLC](https://www.moddb.com/games/spore/downloads/spore-patch-6-v106-dr-pepper?utm_source=chatgpt.com)
 
 **This repository does not include the original EA files.**
 
