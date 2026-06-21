@@ -44,8 +44,8 @@ Translation progress:
 *   en-us Official
 * es-es AI
 * fi-fi AI
-*   fr-fr Translated by feedback
-*   hu-hu Translated by feedback
+*   fr-fr AI & FrenchSPORE
+*   hu-hu Roschach96 & [@Gemini-HUN](https://github.com/Gemini-HUN)
 * it-it AI
 * ja-jp AI
 * ko-kr AI
@@ -54,7 +54,7 @@ Translation progress:
 * pl-pl AI
 * pt-br AI
 * pt-pt AI
-*   ru-ru Translated by feedback
+*   ru-ru Evelin & Charlott & [@A-xesey](https://github.com/A-xesey)
 * sv-se AI
 * th-th AI
 * zh-cn AI
