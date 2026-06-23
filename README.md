@@ -27,6 +27,7 @@ Feedback from **FrenchSPORE** on Davoonline!
 
 ## Not compatible with
 * [Spore_Fix_Russian_Locale_Crash](https://github.com/Gemini-HUN/Spore_Fix_Russian_Locale_Crash)
+* [Spore_HUN_Money_Fix]
 
 
 ## Translated:
