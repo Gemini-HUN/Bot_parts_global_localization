@@ -25,6 +25,9 @@ To restore the missing Sing ability of the original Dr Pepper Bot Parts mouths, 
 Compatible with [Dark Injection](https://davoonline.com/sporemodder/rob55rod/DarkInjection/) and even the mouths included in the **GodzillasuperTexturelessMouths** mod.
 Feedback from **FrenchSPORE** on Davoonline!
 
+## Not compatible with
+* [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization)
+
 
 ## Translated:
 
