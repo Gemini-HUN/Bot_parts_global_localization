@@ -26,7 +26,7 @@ Compatible with [Dark Injection](https://davoonline.com/sporemodder/rob55rod/Dar
 Feedback from **FrenchSPORE** on Davoonline!
 
 ## Not compatible with
-* [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization)
+* [Spore_Fix_Russian_Locale_Crash](https://github.com/Gemini-HUN/Bot_parts_global_localization)
 
 
 ## Translated:
