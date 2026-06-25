@@ -58,7 +58,7 @@ Translation progress:
 * pl-pl AI
 * pt-br AI
 * pt-pt AI
-*   ru-ru **Evelin** & **Charlott** & **[@A-xesey](https://github.com/A-xesey)**
+*   ru-ru [@evelin216](https://github.com/evelin216) & **Charlott** & **[@A-xesey](https://github.com/A-xesey)**
 * sv-se AI
 * th-th AI
 * zh-cn AI
