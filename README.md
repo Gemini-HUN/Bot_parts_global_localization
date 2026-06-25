@@ -33,7 +33,7 @@ Feedback from **FrenchSPORE** on Davoonline!
 ## Translated:
 
 * Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
-* Russian: [@A-xesey](https://github.com/A-xesey) and Evelin and Charlott
+* Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and Charlott
 * French: FrenchSPORE
 * AI-assisted translation approach suggested by Roschach96 and Davo.
 
