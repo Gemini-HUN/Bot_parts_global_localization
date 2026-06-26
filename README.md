@@ -3,6 +3,9 @@
 
 This mod restores missing localization for the Dr Pepper Bot Parts DLC by adding support for all Spore-supported languages.
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 ## Requirements
 
 This mod requires the original [Dr Pepper Bot Parts DLC](https://www.moddb.com/games/spore/downloads/spore-patch-6-v106-dr-pepper?utm_source=chatgpt.com)
