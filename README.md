@@ -41,6 +41,7 @@ Feedback from **FrenchSPORE** on Davoonline!
 * AI-assisted translation approach suggested by Roschach96 and Davo.
 
 ## You can check or edit the language files on my GitHub page and give feedback or contact me on Discord.
+[Languages](https://github.com/Gemini-HUN/Bot_parts_global_localization/tree/main/animations~)
 
 Translation progress:
 * cs-cz AI
