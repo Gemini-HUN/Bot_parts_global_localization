@@ -40,7 +40,9 @@ Feedback from **FrenchSPORE** on Davoonline!
 * French: FrenchSPORE
 * AI-assisted translation approach suggested by Roschach96 and Davo.
 
-## You can check or edit the [language files](https://github.com/Gemini-HUN/Bot_parts_global_localization/tree/main/animations~) on my GitHub page and give feedback or contact me on Discord.
+### You can check or edit the [language files](https://github.com/Gemini-HUN/Bot_parts_global_localization/tree/main/animations~) on my GitHub page and give feedback or contact me on Discord.
+
+For the Hungarian translation, we started by opening the Creature Editor and looking at the creature parts while thinking about the names. I recommend this approach for other languages as well.
 
 Translation progress:
 * cs-cz AI
