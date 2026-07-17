@@ -35,7 +35,7 @@ Feedback from **FrenchSPORE** on Davoonline!
 
 ## Translated:
 
-* Hungarian: Roschach96 and [@Gemini-HUN](https://github.com/Gemini-HUN)
+* Hungarian: [@Roschach96](https://github.com/Roschach96) and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and Charlott
 * French: FrenchSPORE
 * AI-assisted translation approach suggested by Roschach96 and Davo.
@@ -55,7 +55,7 @@ Translation progress:
 * es-es AI
 * fi-fi AI
 *   fr-fr AI & **FrenchSPORE**
-*   hu-hu **Roschach96** & **[@Gemini-HUN](https://github.com/Gemini-HUN)**
+*   hu-hu **[@Roschach96](https://github.com/Roschach96)** & **[@Gemini-HUN](https://github.com/Gemini-HUN)**
 * it-it AI
 * ja-jp AI
 * ko-kr AI
@@ -64,7 +64,7 @@ Translation progress:
 * pl-pl AI
 * pt-br AI
 * pt-pt AI
-*   ru-ru [@evelin216](https://github.com/evelin216) & **Charlott** & **[@A-xesey](https://github.com/A-xesey)**
+*   ru-ru **[@evelin216](https://github.com/evelin216)** & **Charlott** & **[@A-xesey](https://github.com/A-xesey)**
 * sv-se AI
 * th-th AI
 * zh-cn AI
