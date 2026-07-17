@@ -51,7 +51,7 @@ Translation progress:
 * de-de AI
 * el-gr AI
 *   en-gb Same as Official
-*   en-us Official
+*   en-us **Official**
 * es-es AI
 * fi-fi AI
 *   fr-fr AI & **FrenchSPORE**
