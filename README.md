@@ -39,6 +39,7 @@ Feedback from **FrenchSPORE** on Davoonline!
 * Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and Charlott
 * French: FrenchSPORE
 * Spanish: Luis Trigueros
+* Polish: [@thebreadguette](https://github.com/thebreadguette)
 * AI-assisted translation approach suggested by Roschach96 and Davo.
 
 ## Open Community Localization Project
@@ -62,7 +63,7 @@ Translation progress:
 * ko-kr AI
 * nl-nl AI
 * no-no AI
-* pl-pl AI
+* pl-pl **[@thebreadguette](https://github.com/thebreadguette)**
 * pt-br AI
 * pt-pt AI
 *   ru-ru **[@evelin216](https://github.com/evelin216)** & **Charlott** & **[@A-xesey](https://github.com/A-xesey)**
