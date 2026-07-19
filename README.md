@@ -38,6 +38,7 @@ Feedback from **FrenchSPORE** on Davoonline!
 * Hungarian: [@Roschach96](https://github.com/Roschach96) and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and Charlott
 * French: FrenchSPORE
+* Spanish: Luis Trigueros
 * AI-assisted translation approach suggested by Roschach96 and Davo.
 
 ## Open Community Localization Project
@@ -50,11 +51,11 @@ Translation progress:
 * da-dk AI
 * de-de AI
 * el-gr AI
-*   en-gb Same as Official
+*   en-gb **Same as Official**
 *   en-us **Official**
-* es-es AI
+*   es-es **Luis Trigueros**
 * fi-fi AI
-*   fr-fr AI & **FrenchSPORE**
+*   fr-fr **FrenchSPORE**
 *   hu-hu **[@Roschach96](https://github.com/Roschach96)** & **[@Gemini-HUN](https://github.com/Gemini-HUN)**
 * it-it AI
 * ja-jp AI
