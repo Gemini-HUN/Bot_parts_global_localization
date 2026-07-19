@@ -21,7 +21,8 @@ For better compatibility, install the extracted `.package` file as a regular Spo
 ## Recommended
 
 To restore the missing Sing ability of the original Dr Pepper Bot Parts mouths, I recommend installing Davo's Vocal Bot Mouths patch as well.
-[Davo's Vocal Bot Mouths (Sing ability fix)](https://davoonline.com/phpBB3/viewtopic.php?t=94#google_vignette)
+* [Davo's Vocal Bot Mouths (Sing ability fix)](https://davoonline.com/phpBB3/viewtopic.php?t=94#google_vignette)
+* [Reuploaded version](https://github.com/Gemini-HUN/DavosBP2_Data)
 
 ## Compatibility
 
