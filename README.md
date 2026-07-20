@@ -35,7 +35,7 @@ Localization for these mods is already included:
 * [Spore_HUN_Money_Fix](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix)
 
 
-## Contributors:
+## Contributors
 
 * Hungarian: [@Roschach96](https://github.com/Roschach96) and [@Gemini-HUN](https://github.com/Gemini-HUN)
 * Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and Charlott
