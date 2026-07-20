@@ -30,7 +30,7 @@ Compatible with [Dark Injection](https://davoonline.com/sporemodder/rob55rod/Dar
 Feedback from **FrenchSPORE** on Davoonline!
 
 ## Not compatible with
-Instead I'm included the translations into them
+Localization for these mods is already included:
 * [Spore_Fix_Russian_Locale_Crash](https://github.com/Gemini-HUN/Spore_Fix_Russian_Locale_Crash)
 * [Spore_HUN_Money_Fix](https://github.com/Gemini-HUN/Spore_HUN_Money_Fix)
 
