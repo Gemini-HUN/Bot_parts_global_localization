@@ -42,9 +42,11 @@ Localization for these mods is already included:
 * French: FrenchSPORE
 * Spanish: Luis Trigueros
 * Polish: [@thebreadguette](https://github.com/thebreadguette)
-* AI-assisted translation approach suggested by Roschach96 and Davo.
+* AI-assisted translation approach suggested by [@Roschach96](https://github.com/Roschach96) and Davo.
+
 
 ## Open Community Localization Project
+### AI localizations are **placeholders**!
 ### You can check or contribute to the [language files](https://github.com/Gemini-HUN/Bot_parts_global_localization/tree/main/animations~) on GitHub, provide feedback, or contact me on Discord.
 
 For the Hungarian translation, we started by opening the Creature Editor and reviewing the creature parts while discussing possible names.
