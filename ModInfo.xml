@@ -1,5 +1,6 @@
 <mod displayName="BotPartsGlobalLocalization"
      unique="BotPartsGlobalLocalization"
+     description="This mod expands the Dr Pepper Bot Parts DLC localization by adding support for all Spore-supported languages."
      installerSystemVersion="1.0.1.2"
      isExperimental="false"
 </mod>
