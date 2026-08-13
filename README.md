@@ -42,6 +42,7 @@ Localization for these mods is already included:
 * French: FrenchSPORE
 * Spanish: Luis Trigueros
 * Polish: [@thebreadguette](https://github.com/thebreadguette)
+* Chinese: [@ShiraTheMogul](https://github.com/ShiraTheMogul)
 * AI-assisted translation approach suggested by [@Roschach96](https://github.com/Roschach96) and Davo.
 
 
@@ -73,5 +74,5 @@ Translation progress:
 *   ru-ru **[@evelin216](https://github.com/evelin216)** & **Charlott** & **[@A-xesey](https://github.com/A-xesey)**
 * sv-se AI
 * th-th AI
-* zh-cn AI
-* zh-tw AI
+* zh-cn **[@ShiraTheMogul](https://github.com/ShiraTheMogul)**
+* zh-tw **[@ShiraTheMogul](https://github.com/ShiraTheMogul)**
