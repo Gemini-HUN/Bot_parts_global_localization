@@ -38,12 +38,12 @@ Localization for these mods is already included:
 ## Contributors
 
 * Hungarian: [@Roschach96](https://github.com/Roschach96) and [@Gemini-HUN](https://github.com/Gemini-HUN)
-* Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and Charlott
-* French: FrenchSPORE
-* Spanish: Luis Trigueros
+* Russian: [@A-xesey](https://github.com/A-xesey) and [@evelin216](https://github.com/evelin216) and **Charlott**
+* French: **FrenchSPORE**
+* Spanish: **Luis Trigueros**
 * Polish: [@thebreadguette](https://github.com/thebreadguette)
 * Chinese: [@ShiraTheMogul](https://github.com/ShiraTheMogul)
-* Brazilian Portuguese: Moon
+* Brazilian Portuguese: **Moon**
 * AI-assisted translation approach suggested by [@Roschach96](https://github.com/Roschach96) and Davo.
 
 
