@@ -44,7 +44,7 @@ Localization for these mods is already included:
 * Polish: [@thebreadguette](https://github.com/thebreadguette)
 * Chinese: [@ShiraTheMogul](https://github.com/ShiraTheMogul)
 * Brazilian Portuguese: **Moon**
-* AI-assisted translation approach suggested by [@Roschach96](https://github.com/Roschach96) and Davo.
+* AI-assisted translation approach suggested by [@Roschach96](https://github.com/Roschach96) and **Davo**
 
 
 ## Open Community Localization Project
