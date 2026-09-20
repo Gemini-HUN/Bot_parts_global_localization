@@ -16,9 +16,12 @@ The original DLC installer is known to cause compatibility issues or crashes on 
 
 For better compatibility, install the extracted `.package` file as a regular Spore mod instead.
 
+### Better guide by Spore Modding Community
+* [Guide](https://launcherkit.sporecommunity.com/support/bot-parts) if you need more experienced advices for this official DLC.
+
 **This repository does not include the original EA files.**
 
-## Recommended
+## Recommended but not required
 
 To restore the missing Sing ability of the original Dr Pepper Bot Parts mouths, I recommend installing Davo's Vocal Bot Mouths patch as well.
 * [Davo's Vocal Bot Mouths (Sing ability fix)](https://davoonline.com/phpBB3/viewtopic.php?t=94#google_vignette)
