@@ -1,5 +1,5 @@
 # Bot_parts_global_localization
-## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Bot_parts_global_localization?style=flat-square&color=d81b60&logo=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Bot_parts_global_localization/latest?style=flat-square&color=d81b60&logo=github)
 
 This mod expands the Dr Pepper Bot Parts DLC localization by adding support for all Spore-supported languages.
 
